@@ -17,7 +17,7 @@ Il consiste à concevoir un tableau de bord interactif sous **Power BI** permett
 
 À partir de données publiques issues de Wikipédia, les informations ont été :
 
-- collectées ;
+- Copiées ;
 - nettoyées avec **Power Query** ;
 - modélisées ;
 - enrichies à l'aide de mesures **DAX** ;
