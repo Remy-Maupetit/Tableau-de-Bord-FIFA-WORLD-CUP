@@ -1,6 +1,6 @@
 # ⚽ FIFA World Cup Dashboard | Power BI
 
-Projet de **Data Visualisation** réalisé avec **Power BI** permettant d'explorer l'histoire de la Coupe du Monde de football grâce à un tableau de bord interactif.
+Projet de **Data Visualisation** réalisé avec **Power BI** permettant d'explorer l'histoire de la Coupe du Monde de football de 1930 à 2022 grâce à un tableau de bord interactif.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0176D3)
@@ -101,10 +101,9 @@ https://fr.wikipedia.org/wiki/Coupe_du_monde_de_football
 - Présenter les données de manière claire, synthétique et interactive.
 
 ---
+# Mise à jour
 
-# 📸 Aperçu
-
-> *Des captures d'écran du tableau de bord seront prochainement ajoutées.*
+-Les données de la coupe du monde 2026 seront intégrées à la fin de la compétitions 
 
 ---
 
