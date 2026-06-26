@@ -22,6 +22,28 @@ Vous pouvez consulter le rapport Power BI en ligne en cliquant sur le lien ci-de
 
 👉 https://app.powerbi.com/groups/me/reports/10dbc338-58ca-4cd2-a6b9-9100dd169d4f/061808b04ab1740c651a?experience=power-bi
 
+
+**Ce tableau de bord se compose de 3 pages**
+
+#### 1.Accueil : 
+* **Sélection de la compétition**
+* **Bouton de navigation vers les pages statistiques générales des coupes du mondes**
+* **Bouton de navigation vers la compétition sélectionnée**
+* **Carte intéractive des pays participants à l'édition sélectionnée**
+
+#### 2.Détails de la compétition sélectionnée
+* **Résultats de l'ensemble des matchs**
+* **Palmarès**
+* **Classement des buteurs**
+
+#### 3.Statistiques générales
+* **Nombre de but inscrit lors de chaque édition**
+* **Classement des 10 pays ayant inscrit le plus de buts en coupe du monde**
+* **Le classement des 10 meilleurs buteurs de l'histoire de la coupe du monde**
+* **Les 10 pays ayant participé au plus grand nombre de coupe du monde**
+* **Le Hall of fame des pays champion du monde**
+
+
 ---
 
 ## 🛠️ Technologies utilisées
@@ -29,7 +51,7 @@ Vous pouvez consulter le rapport Power BI en ligne en cliquant sur le lien ci-de
 - Power BI Desktop
 - Power Query
 - DAX
-- Microsoft Excel (préparation éventuelle des données)
+- Microsoft Excel (préparation et compilation des données)
 
 ---
 
