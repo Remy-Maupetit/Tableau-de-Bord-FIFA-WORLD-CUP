@@ -1,85 +1,133 @@
-# Tableau-de-Bord-FIFA-WORLD-CUP
+# ⚽ FIFA World Cup Dashboard | Power BI
 
-# 📊 Analyse des Données – Dashboard Power BI
+Projet de **Data Visualisation** réalisé avec **Power BI** permettant d'explorer l'histoire de la Coupe du Monde de football grâce à un tableau de bord interactif.
 
-## 📌 Description du projet
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0176D3)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346)
+![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Analyst-blue)
 
-Ce dépôt GitHub présente un projet d'analyse de données réalisé avec **Power BI**. L'objectif est de transformer des données brutes en tableaux de bord interactifs afin de mettre en évidence des tendances, des indicateurs de performance (KPI) et des informations utiles à la prise de décision.
+---
 
-Ce projet illustre les différentes étapes d'un processus d'analyse de données :
+# 📌 Présentation
 
-- Collecte des données
-- Nettoyage et préparation avec Power Query
+Ce projet a été réalisé dans le cadre de mon portfolio de **Data Analyst**.
+
+Il consiste à concevoir un tableau de bord interactif sous **Power BI** permettant d'explorer l'ensemble des éditions de la Coupe du Monde de football.
+
+À partir de données publiques issues de Wikipédia, les informations ont été :
+
+- collectées ;
+- nettoyées avec **Power Query** ;
+- modélisées ;
+- enrichies à l'aide de mesures **DAX** ;
+- valorisées sous forme de visualisations interactives.
+
+L'objectif est de proposer une expérience de navigation intuitive permettant d'analyser les performances des nations, des joueurs ainsi que l'évolution de la compétition depuis sa création.
+
+---
+
+# 🚀 Dashboard interactif
+
+👉 **Consulter le rapport Power BI**
+
+https://app.powerbi.com/groups/me/reports/10dbc338-58ca-4cd2-a6b9-9100dd169d4f/061808b04ab1740c651a?experience=power-bi
+
+---
+
+# 📊 Contenu du tableau de bord
+
+Le rapport est composé de **3 pages**.
+
+## 🏠 1. Accueil
+
+- Sélection d'une édition de la Coupe du Monde
+- Navigation vers les différentes pages du rapport
+- Carte interactive des pays participants
+
+## 🏆 2. Détail de la compétition
+
+- Résultats complets des matchs
+- Palmarès de l'édition sélectionnée
+- Classement des meilleurs buteurs
+
+## 📈 3. Statistiques générales
+
+- Nombre de buts inscrits par édition
+- Top 10 des nations ayant inscrit le plus de buts
+- Top 10 des meilleurs buteurs de l'histoire
+- Les pays ayant participé au plus grand nombre de Coupes du Monde
+- Hall of Fame des champions du monde
+
+---
+
+# 💼 Compétences mises en œuvre
+
+- Collecte et préparation des données
+- Nettoyage des données avec Power Query
 - Modélisation des données
-- Création de mesures avec DAX
-- Conception d'un tableau de bord interactif sous Power BI
+- Création de mesures DAX
+- Data Visualisation
+- Storytelling par la donnée
+- Conception de tableaux de bord interactifs
+- Analyse de données
 
 ---
 
-## 🚀 Dashboard interactif
-
-Vous pouvez consulter le rapport Power BI en ligne en cliquant sur le lien ci-dessous :
-
-👉 https://app.powerbi.com/groups/me/reports/10dbc338-58ca-4cd2-a6b9-9100dd169d4f/061808b04ab1740c651a?experience=power-bi
-
-
-**Ce tableau de bord se compose de 3 pages**
-
-#### 1.Accueil : 
-* **Sélection de la compétition**
-* **Bouton de navigation vers les pages statistiques générales des coupes du mondes**
-* **Bouton de navigation vers la compétition sélectionnée**
-* **Carte intéractive des pays participants à l'édition sélectionnée**
-
-#### 2.Détails de la compétition sélectionnée
-* **Résultats de l'ensemble des matchs**
-* **Palmarès**
-* **Classement des buteurs**
-
-#### 3.Statistiques générales
-* **Nombre de but inscrit lors de chaque édition**
-* **Classement des 10 pays ayant inscrit le plus de buts en coupe du monde**
-* **Le classement des 10 meilleurs buteurs de l'histoire de la coupe du monde**
-* **Les 10 pays ayant participé au plus grand nombre de coupe du monde**
-* **Le Hall of fame des pays champion du monde**
-
-
----
-
-## 🛠️ Technologies utilisées
+# 🛠️ Technologies utilisées
 
 - Power BI Desktop
 - Power Query
 - DAX
-- Microsoft Excel (préparation et compilation des données)
+- Microsoft Excel
 
 ---
 
-## 📂 Source des données
+# 📂 Source des données
 
-Les données utilisées pour cette analyse proviennent de **Wikipédia**.
+Les données utilisées dans ce projet proviennent de Wikipédia.
 
-**Source : https://fr.wikipedia.org/wiki/Coupe_du_monde_de_football**
+**Source :**
+https://fr.wikipedia.org/wiki/Coupe_du_monde_de_football
 
 ---
 
-## 🎯 Objectifs du projet
+# 🎯 Objectifs du projet
 
 - Mettre en pratique les compétences d'un Data Analyst.
-- Construire un tableau de bord interactif et professionnel.
-- Extraire des indicateurs pertinents à partir des données.
-- Présenter les résultats de manière claire et visuelle.
+- Transformer des données brutes en informations exploitables.
+- Concevoir un tableau de bord professionnel.
+- Faciliter l'analyse des performances des équipes et des joueurs.
+- Présenter les données de manière claire, synthétique et interactive.
 
 ---
 
-## 👤 Auteur
+# 📸 Aperçu
+
+> *Des captures d'écran du tableau de bord seront prochainement ajoutées.*
+
+---
+
+# ⚖️ Avertissement
+
+Ce projet est un **travail personnel** réalisé à des fins pédagogiques et de démonstration de compétences en analyse de données.
+
+Il n'est **ni affilié, ni approuvé, ni sponsorisé par la FIFA**.
+
+**FIFA** et **FIFA World Cup™** sont des marques déposées de la **Fédération Internationale de Football Association (FIFA)**. Toutes les marques, logos et dénominations associés demeurent la propriété exclusive de leurs détenteurs respectifs.
+
+---
+
+# 👤 Auteur
 
 **Rémy Maupetit**
 
-En reconversion professionnelle vers le métier de **Data Analyst**, ce projet fait partie de mon portfolio afin de démontrer mes compétences en analyse de données, modélisation et data visualisation.
+En reconversion professionnelle vers le métier de **Data Analyst**, je développe des projets autour de la préparation des données, de la modélisation, de l'analyse et de la visualisation afin de constituer un portfolio démontrant mes compétences.
+
+N'hésitez pas à consulter mes autres projets GitHub !
 
 ---
 
-## 📜 Licence
+## ⭐ Si ce projet vous a plu
 
-Ce projet est publié à des fins pédagogiques et de démonstration de compétences.
+N'hésitez pas à laisser une ⭐ sur ce dépôt GitHub.
