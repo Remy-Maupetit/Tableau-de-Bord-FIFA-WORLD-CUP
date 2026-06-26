@@ -101,9 +101,9 @@ https://fr.wikipedia.org/wiki/Coupe_du_monde_de_football
 - Présenter les données de manière claire, synthétique et interactive.
 
 ---
-# Mise à jour
+# 📈 Mise à jour
 
--Les données de la coupe du monde 2026 seront intégrées à la fin de la compétitions 
+-Les données de la coupe du monde 2026 seront intégrées à la fin de la compétition 
 
 ---
 
