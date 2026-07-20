@@ -31,7 +31,7 @@ L'objectif est de proposer une expérience de navigation intuitive permettant d'
 
 👉 **Consulter le rapport Power BI**
 
-https://app.powerbi.com/groups/me/reports/10dbc338-58ca-4cd2-a6b9-9100dd169d4f/061808b04ab1740c651a?experience=power-bi
+[Lien vers Tableau de Bord](https://app.powerbi.com/groups/me/reports/10dbc338-58ca-4cd2-a6b9-9100dd169d4f/061808b04ab1740c651a?experience=power-bi)
 
 ---
 
